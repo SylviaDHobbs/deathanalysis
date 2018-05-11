@@ -1,0 +1,243 @@
+"Notes"	"State"	"State Code"	"Autopsy"	"Autopsy Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"No"	"N"	486709	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Yes"	"Y"	38176	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Unknown"	"U"	335944	Not Applicable	Not Applicable
+"Total"	"Alabama"	"01"			860829	Not Applicable	Not Applicable
+	"Alaska"	"02"	"No"	"N"	45118	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Yes"	"Y"	6029	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Unknown"	"U"	12231	Not Applicable	Not Applicable
+"Total"	"Alaska"	"02"			63378	Not Applicable	Not Applicable
+	"Arizona"	"04"	"No"	"N"	606824	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Yes"	"Y"	65711	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Unknown"	"U"	165572	Not Applicable	Not Applicable
+"Total"	"Arizona"	"04"			838107	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"No"	"N"	380316	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Yes"	"Y"	19274	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Unknown"	"U"	123375	Not Applicable	Not Applicable
+"Total"	"Arkansas"	"05"			522965	Not Applicable	Not Applicable
+	"California"	"06"	"No"	"N"	3048340	Not Applicable	Not Applicable
+	"California"	"06"	"Yes"	"Y"	326157	Not Applicable	Not Applicable
+	"California"	"06"	"Unknown"	"U"	932566	Not Applicable	Not Applicable
+"Total"	"California"	"06"			4307063	Not Applicable	Not Applicable
+	"Colorado"	"08"	"No"	"N"	388730	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Yes"	"Y"	59328	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Unknown"	"U"	113240	Not Applicable	Not Applicable
+"Total"	"Colorado"	"08"			561298	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"No"	"N"	363847	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Yes"	"Y"	28459	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Unknown"	"U"	139020	Not Applicable	Not Applicable
+"Total"	"Connecticut"	"09"			531326	Not Applicable	Not Applicable
+	"Delaware"	"10"	"No"	"N"	95283	Not Applicable	Not Applicable
+	"Delaware"	"10"	"Yes"	"Y"	8565	Not Applicable	Not Applicable
+	"Delaware"	"10"	"Unknown"	"U"	32147	Not Applicable	Not Applicable
+"Total"	"Delaware"	"10"			135995	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"No"	"N"	56074	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"Yes"	"Y"	12959	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"Unknown"	"U"	25123	Not Applicable	Not Applicable
+"Total"	"District of Columbia"	"11"			94156	Not Applicable	Not Applicable
+	"Florida"	"12"	"No"	"N"	1921971	Not Applicable	Not Applicable
+	"Florida"	"12"	"Yes"	"Y"	199929	Not Applicable	Not Applicable
+	"Florida"	"12"	"Unknown"	"U"	1009223	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"			3131123	Not Applicable	Not Applicable
+	"Georgia"	"13"	"No"	"N"	893933	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Yes"	"Y"	80120	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Unknown"	"U"	285005	Not Applicable	Not Applicable
+"Total"	"Georgia"	"13"			1259058	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"No"	"N"	102693	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"Yes"	"Y"	14826	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"Unknown"	"U"	54774	Not Applicable	Not Applicable
+"Total"	"Hawaii"	"15"			172293	Not Applicable	Not Applicable
+	"Idaho"	"16"	"No"	"N"	153648	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Yes"	"Y"	7352	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Unknown"	"U"	39170	Not Applicable	Not Applicable
+"Total"	"Idaho"	"16"			200170	Not Applicable	Not Applicable
+	"Illinois"	"17"	"No"	"N"	1301325	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Yes"	"Y"	113516	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Unknown"	"U"	457352	Not Applicable	Not Applicable
+"Total"	"Illinois"	"17"			1872193	Not Applicable	Not Applicable
+	"Indiana"	"18"	"No"	"N"	701269	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Yes"	"Y"	49387	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Unknown"	"U"	281030	Not Applicable	Not Applicable
+"Total"	"Indiana"	"18"			1031686	Not Applicable	Not Applicable
+	"Iowa"	"19"	"No"	"N"	366421	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Yes"	"Y"	26244	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Unknown"	"U"	114607	Not Applicable	Not Applicable
+"Total"	"Iowa"	"19"			507272	Not Applicable	Not Applicable
+	"Kansas"	"20"	"No"	"N"	272674	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Yes"	"Y"	29202	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Unknown"	"U"	146996	Not Applicable	Not Applicable
+"Total"	"Kansas"	"20"			448872	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"No"	"N"	498204	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Yes"	"Y"	35959	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Unknown"	"U"	218492	Not Applicable	Not Applicable
+"Total"	"Kentucky"	"21"			752655	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"No"	"N"	533098	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Yes"	"Y"	52901	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Unknown"	"U"	169958	Not Applicable	Not Applicable
+"Total"	"Louisiana"	"22"			755957	Not Applicable	Not Applicable
+	"Maine"	"23"	"No"	"N"	173870	Not Applicable	Not Applicable
+	"Maine"	"23"	"Yes"	"Y"	6571	Not Applicable	Not Applicable
+	"Maine"	"23"	"Unknown"	"U"	51401	Not Applicable	Not Applicable
+"Total"	"Maine"	"23"			231842	Not Applicable	Not Applicable
+	"Maryland"	"24"	"No"	"N"	553573	Not Applicable	Not Applicable
+	"Maryland"	"24"	"Yes"	"Y"	66745	Not Applicable	Not Applicable
+	"Maryland"	"24"	"Unknown"	"U"	180204	Not Applicable	Not Applicable
+"Total"	"Maryland"	"24"			800522	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"No"	"N"	700444	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Yes"	"Y"	49425	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Unknown"	"U"	237207	Not Applicable	Not Applicable
+"Total"	"Massachusetts"	"25"			987076	Not Applicable	Not Applicable
+	"Michigan"	"26"	"No"	"N"	1047697	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Yes"	"Y"	111472	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Unknown"	"U"	440785	Not Applicable	Not Applicable
+"Total"	"Michigan"	"26"			1599954	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"No"	"N"	432582	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Yes"	"Y"	43617	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Unknown"	"U"	226096	Not Applicable	Not Applicable
+"Total"	"Minnesota"	"27"			702295	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"No"	"N"	292653	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Yes"	"Y"	27641	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Unknown"	"U"	205862	Not Applicable	Not Applicable
+"Total"	"Mississippi"	"28"			526156	Not Applicable	Not Applicable
+	"Missouri"	"29"	"No"	"N"	701319	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Yes"	"Y"	42930	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Unknown"	"U"	264076	Not Applicable	Not Applicable
+"Total"	"Missouri"	"29"			1008325	Not Applicable	Not Applicable
+	"Montana"	"30"	"No"	"N"	116043	Not Applicable	Not Applicable
+	"Montana"	"30"	"Yes"	"Y"	7964	Not Applicable	Not Applicable
+	"Montana"	"30"	"Unknown"	"U"	34473	Not Applicable	Not Applicable
+"Total"	"Montana"	"30"			158480	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"No"	"N"	200879	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Yes"	"Y"	15214	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Unknown"	"U"	61903	Not Applicable	Not Applicable
+"Total"	"Nebraska"	"31"			277996	Not Applicable	Not Applicable
+	"Nevada"	"32"	"No"	"N"	252825	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Yes"	"Y"	28052	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Unknown"	"U"	64405	Not Applicable	Not Applicable
+"Total"	"Nevada"	"32"			345282	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"No"	"N"	139739	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Yes"	"Y"	8711	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Unknown"	"U"	39550	Not Applicable	Not Applicable
+"Total"	"New Hampshire"	"33"			188000	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"No"	"N"	848327	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Yes"	"Y"	65032	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Unknown"	"U"	378217	Not Applicable	Not Applicable
+"Total"	"New Jersey"	"34"			1291576	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"No"	"N"	154447	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Yes"	"Y"	22410	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Unknown"	"U"	104756	Not Applicable	Not Applicable
+"Total"	"New Mexico"	"35"			281613	Not Applicable	Not Applicable
+	"New York"	"36"	"No"	"N"	1681719	Not Applicable	Not Applicable
+	"New York"	"36"	"Yes"	"Y"	203734	Not Applicable	Not Applicable
+	"New York"	"36"	"Unknown"	"U"	856125	Not Applicable	Not Applicable
+"Total"	"New York"	"36"			2741578	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"No"	"N"	813599	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Yes"	"Y"	66654	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Unknown"	"U"	518760	Not Applicable	Not Applicable
+"Total"	"North Carolina"	"37"			1399013	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"No"	"N"	75133	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Yes"	"Y"	5754	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Unknown"	"U"	26490	Not Applicable	Not Applicable
+"Total"	"North Dakota"	"38"			107377	Not Applicable	Not Applicable
+	"Ohio"	"39"	"No"	"N"	1405073	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Yes"	"Y"	122588	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Unknown"	"U"	459648	Not Applicable	Not Applicable
+"Total"	"Ohio"	"39"			1987309	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"No"	"N"	482761	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Yes"	"Y"	25416	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Unknown"	"U"	148364	Not Applicable	Not Applicable
+"Total"	"Oklahoma"	"40"			656541	Not Applicable	Not Applicable
+	"Oregon"	"41"	"No"	"N"	435546	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Yes"	"Y"	17656	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Unknown"	"U"	122761	Not Applicable	Not Applicable
+"Total"	"Oregon"	"41"			575963	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"No"	"N"	610235	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Yes"	"Y"	44743	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Unknown"	"U"	1658905	Not Applicable	Not Applicable
+"Total"	"Pennsylvania"	"42"			2313883	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"No"	"N"	112622	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Yes"	"Y"	11028	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Unknown"	"U"	52687	Not Applicable	Not Applicable
+"Total"	"Rhode Island"	"44"			176337	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"No"	"N"	523150	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Yes"	"Y"	51705	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Unknown"	"U"	157775	Not Applicable	Not Applicable
+"Total"	"South Carolina"	"45"			732630	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"No"	"N"	92462	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Yes"	"Y"	5281	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Unknown"	"U"	30948	Not Applicable	Not Applicable
+"Total"	"South Dakota"	"46"			128691	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"No"	"N"	428158	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Yes"	"Y"	47412	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Unknown"	"U"	591202	Not Applicable	Not Applicable
+"Total"	"Tennessee"	"47"			1066772	Not Applicable	Not Applicable
+	"Texas"	"48"	"No"	"N"	2092757	Not Applicable	Not Applicable
+	"Texas"	"48"	"Yes"	"Y"	253900	Not Applicable	Not Applicable
+	"Texas"	"48"	"Unknown"	"U"	622570	Not Applicable	Not Applicable
+"Total"	"Texas"	"48"			2969227	Not Applicable	Not Applicable
+	"Utah"	"49"	"No"	"N"	187562	Not Applicable	Not Applicable
+	"Utah"	"49"	"Yes"	"Y"	22578	Not Applicable	Not Applicable
+	"Utah"	"49"	"Unknown"	"U"	50370	Not Applicable	Not Applicable
+"Total"	"Utah"	"49"			260510	Not Applicable	Not Applicable
+	"Vermont"	"50"	"No"	"N"	63928	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Yes"	"Y"	7428	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Unknown"	"U"	24087	Not Applicable	Not Applicable
+"Total"	"Vermont"	"50"			95443	Not Applicable	Not Applicable
+	"Virginia"	"51"	"No"	"N"	519505	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Yes"	"Y"	48613	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Unknown"	"U"	503079	Not Applicable	Not Applicable
+"Total"	"Virginia"	"51"			1071197	Not Applicable	Not Applicable
+	"Washington"	"53"	"No"	"N"	597682	Not Applicable	Not Applicable
+	"Washington"	"53"	"Yes"	"Y"	63447	Not Applicable	Not Applicable
+	"Washington"	"53"	"Unknown"	"U"	204559	Not Applicable	Not Applicable
+"Total"	"Washington"	"53"			865688	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"No"	"N"	274346	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Yes"	"Y"	21415	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Unknown"	"U"	90535	Not Applicable	Not Applicable
+"Total"	"West Virginia"	"54"			386296	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"No"	"N"	618515	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Yes"	"Y"	50472	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Unknown"	"U"	188645	Not Applicable	Not Applicable
+"Total"	"Wisconsin"	"55"			857632	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"No"	"N"	55859	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Yes"	"Y"	5340	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Unknown"	"U"	16267	Not Applicable	Not Applicable
+"Total"	"Wyoming"	"56"			77466	Not Applicable	Not Applicable
+"Total"					44915066	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2016"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Gender: All"
+"Hispanic Origin: All"
+"ICD-10 Codes: All"
+"Place of Death: All"
+"Race: All"
+"States: All"
+"Ten-Year Age Groups: All"
+"Weekday: All"
+"Year/Month: All"
+"Group By: State, Autopsy"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: May 11, 2018 4:40:55 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on May 11, 2018 4:40:55 PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates."
+"2. Autopsy data are available starting in the year 2003, Autopsy data for years 1999-2002 are categorized as 'Unknown.'"
+"3. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
